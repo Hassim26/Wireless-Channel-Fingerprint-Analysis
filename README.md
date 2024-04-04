@@ -1,4 +1,4 @@
-before running the code make sure that to install all neccesary libraries 
+before running the code make sure that to install all neccesary libraries and images 
 
 import os - this library is default 
 
