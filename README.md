@@ -9,6 +9,8 @@ import PySimpleGUI as sg - `pip install PySimpleGUI`
 import numpy as np - `pip install numpy` 
 
 
+Fingerprint image db : https://www.kaggle.com/datasets/ruizgara/socofing
+
 
 
 
