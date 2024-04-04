@@ -7,3 +7,8 @@ import cv2  - `pip install cv2`
 import PySimpleGUI as sg - `pip install PySimpleGUI`
 
 import numpy as np - `pip install numpy` 
+
+
+
+
+
